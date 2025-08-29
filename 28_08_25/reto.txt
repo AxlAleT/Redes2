@@ -1,0 +1,23 @@
+Retos para los equipos
+
+Modificar el mensaje
+
+Haz que el cliente pida al usuario que escriba un mensaje y lo envíe al servidor.
+
+El servidor debe mostrarlo en pantalla.
+
+Comunicación bidireccional
+
+Haz que el servidor también pueda escribir un mensaje al cliente (como un chat sencillo).
+
+Validación de acceso
+
+Antes de aceptar mensajes, el servidor debe pedir un ID de usuario y contraseña de 8 bits (como en tu ejemplo anterior).
+
+Múltiples clientes
+
+Investiga cómo usar fork() o threads para que el servidor atienda a más de un cliente al mismo tiempo.
+
+Implementar un servicio real
+
+Convierte el servidor en un servidor de archivos que mande un archivo .txt al cliente cuando este lo pida.
